@@ -1,0 +1,9 @@
+{
+  "run": {
+    "type": "file",
+    "file": "main.html",
+    "ignoreCurrent": false,
+    "url": "htpps://krishna.com",
+    "task": ""
+  }
+}
